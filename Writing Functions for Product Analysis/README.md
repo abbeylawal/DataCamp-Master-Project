@@ -1,5 +1,7 @@
 # Writing Functions for Product Analysis
 Use coding best practices and functions to improve a script!
+# Overview
+ Prject is based on writing NPS product fuctions.... NPS, or Net Promoter Score, measures customer experience of your brand and provides the best metric to anchor your customer experience management program.
 ## Prerequistes
   Writing Functions in Python
   Data Manipulation with Pandas
@@ -13,3 +15,4 @@ Use coding best practices and functions to improve a script!
 6. Calculating the Net Promoter Score
 7. Breaking down NPS by source
 8. Adding docstrings
+
