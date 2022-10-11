@@ -1,4 +1,10 @@
-Project Tasks
+# Writing Functions for Product Analysis
+Use coding best practices and functions to improve a script!
+## Prerequistes
+  Writing Functions in Python
+  Data Manipulation with Pandas
+
+## Project Tasks
 1. DRY: Don't repeat yourself
 2. Verifying the files with the "with" keyword
 3. Putting it together with nested functions
